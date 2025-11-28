@@ -5,11 +5,6 @@
 
 ---
 
-## 🧭 Profile
-Information Technology student with a strong drive to learn, grow, and contribute meaningfully to team goals. Organized, adaptable, and proactive, with hands-on experience in tech-driven academic projects. Passionate about delivering thoughtful, solution-oriented work aligned with organizational values.
-
----
-
 ## 🛠 Tech Stack
 
 ### **Languages**
@@ -51,12 +46,3 @@ Information Technology student with a strong drive to learn, grow, and contribut
 
 ---
 
-## 🏆 Achievements
-![Achievements](https://github-profile-trophy.vercel.app/?username=janeclarette&theme=blue&no-frame=true&no-bg=true&margin-w=10)
-
----
-
-## 🎯 Current Focus
-- Improving full-stack development skills  
-- Writing maintainable and efficient code  
-- Exploring TypeScript + React Native workflows
