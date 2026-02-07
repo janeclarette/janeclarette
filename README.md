@@ -22,11 +22,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0A66C2?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-0A66C2?style=for-the-badge&logo=xampp&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-0A66C2?style=for-the-badge&logo=insomnia&logoColor=white) ![VB.Net](https://img.shields.io/badge/VB.Net-0A66C2?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-| Stats | Top Languages | Streak |
-|-------|---------------|--------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=janeclarette&show_icons=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janeclarette&layout=compact&theme=transparent&title_color=0A66C2) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=janeclarette&theme=transparent&fire=0A66C2&ring=0A66C2&currStreakLabel=0A66C2) |
-
----
-
